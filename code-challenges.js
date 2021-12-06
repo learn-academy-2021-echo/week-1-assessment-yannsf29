@@ -7,7 +7,7 @@
 
 // --------------------1) Create a statement that determines if a temperature is below boiling point, at boiling point, or above boiling point. Boiling point is 212 degrees Fahrenheit.
 
-// Statement **************
+// Statement ****************
 // var temp = 42
 // if temp < 42 statement say "42 is below boiling point"
 // // var temp = 350
