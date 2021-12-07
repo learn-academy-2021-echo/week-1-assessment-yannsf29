@@ -5,7 +5,7 @@ First, without external resources. Challenge yourself to answer from memory as i
 
 Then, research the question to expand on your answer. Even if you feel you have answered the question completely, there is always something more to learn. Write your researched answer in your OWN WORDS.
 
-1. What is git? What is the difference between git and Github?
+1. What is git? What is the difference between git and Github?/
 
   Your answer: Git is a Software used to track changes in a set of files, it allows multiple developers to work as a team.
 
